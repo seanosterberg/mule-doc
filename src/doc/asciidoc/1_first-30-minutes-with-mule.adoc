@@ -9,5 +9,8 @@ Mule application. 
 Read the following sections to build your knowledge of, and
 familiarity with Mule. When you've read the basics, continue your
 learning with the
+
+BLAH BLAH BLAH
+
 link:http://www.mulesoft.org/documentation/display/current/First+Day+with+Mule[*First Day with Mule*] and
 link:http://www.mulesoft.org/documentation/display/current/First+Week+with+Mule[*First Week with Mule*] sections.
